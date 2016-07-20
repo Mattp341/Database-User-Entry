@@ -1,0 +1,9 @@
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\DataEntryToDB\DataEntryToDB\bin\Debug\DataEntryToDB.exe.config
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\DataEntryToDB\DataEntryToDB\bin\Debug\DataEntryToDB.exe
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\DataEntryToDB\DataEntryToDB\bin\Debug\DataEntryToDB.pdb
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\DataEntryToDB\DataEntryToDB\obj\Debug\DataEntryToDB.csprojResolveAssemblyReference.cache
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\DataEntryToDB\DataEntryToDB\obj\Debug\DataEntryToDB.Form1.resources
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\DataEntryToDB\DataEntryToDB\obj\Debug\DataEntryToDB.Properties.Resources.resources
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\DataEntryToDB\DataEntryToDB\obj\Debug\DataEntryToDB.csproj.GenerateResource.Cache
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\DataEntryToDB\DataEntryToDB\obj\Debug\DataEntryToDB.exe
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\DataEntryToDB\DataEntryToDB\obj\Debug\DataEntryToDB.pdb
